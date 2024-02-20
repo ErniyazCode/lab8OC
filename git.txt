@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>It's a title... wave!</title>
+  <title>NEW TITLE ERNIYAZ</title>
 </head>
 <body>
-  Content is KING!
+  Content is KING! KING KING KING KING KING KING
 </body>
 </html>
